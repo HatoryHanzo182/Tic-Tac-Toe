@@ -16,10 +16,6 @@ https://github.com/HatoryHanzo182/Tic-Tac-Toe/assets/55142468/3fd41e93-833f-44ae
 ## Game Layout
 The game layout consists of a 3x3 grid where players can make their moves. The players are represented by "X" and "O" symbols. Additionally, there is a display showing the names and symbols of both players at the top of the screen.
 
-### Player Display Layout
-- Player 1: ![X](res/drawable/x_img.png)
-- Player 2: ![O](res/drawable/o_img.png)
-
 ### Playing Field
 The playing field consists of a 3x3 grid of cells, each initially empty. Players take turns making moves by tapping on an empty cell, marking it with their respective symbol.
 
